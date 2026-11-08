@@ -3,7 +3,7 @@ Logistic Regression model that predicts that the user/customer will purchase tha
 
 Tech Stack:
 • Language: Python 
-• Data Manipulation: Pandas, NumPy 
+• Data Manipulation: Pandas, NumPy, matplotlib
 • Machine Learning: Scikit-Learn 
 • Model Deployment: Streamlit 
 • Model Tracking/Saving: Joblib
